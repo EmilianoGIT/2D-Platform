@@ -1,6 +1,9 @@
 # 2D-Platform
 A 2D tilemap platformer made in Unity while following the GameDev.TV Unity 2D Class
 
+# Preview
+![Screenshot](/Assets/Screenshot/screenshot1.png)
+
 # What I learned from this part of the course:
 * Using many levels of tilemap and define rule tiles to paint the level automatically.
 * How to make different entieties interact together with collissions.
